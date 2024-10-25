@@ -17,7 +17,6 @@ import { check } from 'k6';
 
 
 // const URL_CATALOG = "https://swap-dev.int.nbyt.fr/?catalog"
-// const URL = "https://swap-dev.int.nbyt.fr/ihm-bytel/ACAN/ADRESSE-GEOGRAPHIQUE/rechercherAdresses@1.0.25/ADRESSE-GEOGRAPHIQUE-rechercherAdresses-consumer-swagger.json"
 
 // const BASE_URL = __ENV.BASE_URL
 // const STAGE_DURATION = __ENV.STAGE_DURATION
