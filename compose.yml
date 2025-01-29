@@ -45,3 +45,7 @@ services:
     volumes:
       - ./test/integration/assets:/assets
       - ./etc/nginx/edge:/etc/nginx/edge
+      - ./etc/nginx/includes:/etc/nginx/includes:ro
+      - ./etc/nginx/conf.d:/etc/nginx/conf.d:rw
+      - ./etc/nginx/mime.types:/etc/nginx/mime.types:ro
+      - ./etc/nginx/nginx.conf:/etc/nginx/nginx.conf:ro
