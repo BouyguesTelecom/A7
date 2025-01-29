@@ -6,4 +6,4 @@
 - 11 /namespace/package@1.23.4/file.html package@1.23.4/file.html
 - 208 /namespace/package@1.23.4/file.zip package@1.23.4/file.zip
 - 13 /namespace/package@1.23.4/file%20with%20spaces.txt package@1.23.4/file with spaces.txt
-- 14 /namespace/package@1.23.4/file.js package@1.23.4/file.js
+- 14 /namespace/package@1.23.4/file.js namespace/package@1.23.4/file.js
